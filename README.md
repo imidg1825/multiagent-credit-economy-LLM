@@ -173,6 +173,7 @@ Gini колебался в диапазоне примерно 0.16–0.33.
 ### 1️⃣ Клонировать репозиторий
 
 ```bash
-git clone https://github.com/your-username/multiagent-credit-economy.git
-cd multiagent-credit-economy
+git clone https://github.com/imidg1825/multiagent-credit-economy-LLM.git
+cd multiagent-credit-economy-LLM
+
 
